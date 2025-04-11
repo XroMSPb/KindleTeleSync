@@ -25,7 +25,9 @@
 Большие файлы могут долго скачиваться, имейте это в виду!
 Первая публичная версия, могут быть ошибки. 
 Версия 1.1
+
 Автор — [XroM](https://4pda.to/forum/index.php?showuser=237553)
+
 За тесты и помощь спасибо [Dark_AssassinUA](https://4pda.to/forum/index.php?showuser=2610359)
 
 ENG:
@@ -57,5 +59,7 @@ Detailed logs are written to the sync.log file, and brief information messages a
 Large files can take a long time to download, keep this in mind!
 The first public version, there may be errors. 
 Version 1.1
+
 Author — [XroM](https://4pda.to/forum/index.php?showuser=237553)
+
 Thanks  for the tests and help to [Dark_AssassinUA](https://4pda.to/forum/index.php?showuser=2610359)
