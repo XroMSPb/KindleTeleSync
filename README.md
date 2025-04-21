@@ -1,4 +1,5 @@
-﻿# Требования:
+ 
+ # Требования:
 1. Джейлбрейк
 2. KUAL
 3. Подключение к интернету
@@ -24,7 +25,7 @@
 Подробные логи пишутся в файл sync.log, краткие информационные сообщения выводятся вверху экрана. 
 Большие файлы могут долго скачиваться, имейте это в виду!
 Первая публичная версия, могут быть ошибки. 
-Версия 1.1
+Версия 1.2.1
 
 Автор — [XroM](https://4pda.to/forum/index.php?showuser=237553)
 
@@ -58,8 +59,15 @@ You can also specify the file formats that will be allowed for download in the c
 Detailed logs are written to the sync.log file, and brief information messages are displayed at the top of the screen. 
 Large files can take a long time to download, keep this in mind!
 The first public version, there may be errors. 
-Version 1.1
+Version 1.2.1
 
 Author — [XroM](https://4pda.to/forum/index.php?showuser=237553)
 
+
 Thanks  for the tests and help to [Dark_AssassinUA](https://4pda.to/forum/index.php?showuser=2610359)
+
+ <img src="https://github.com/user-attachments/assets/267e4466-4f9d-4bb4-8ca8-a5766d15935b" width="300">
+ <img src="https://github.com/user-attachments/assets/865cfec1-f7c8-42ad-bbf5-1b4f5366ae00" width="300">
+ <img src="https://github.com/user-attachments/assets/8b8baab8-bc0a-405f-ba31-75c023e66be7" width="300">
+ <img src="https://github.com/user-attachments/assets/1d684896-3ff8-4098-aa39-bea1a363bf61" width="200">
+ <img src="https://github.com/user-attachments/assets/76e0921d-db5f-4c4d-8b41-2a67790456d2" width="200">
