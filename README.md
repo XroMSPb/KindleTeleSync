@@ -23,9 +23,12 @@
 Теперь боту можно пересылать сообщения с файлами/файлы , при запуске KindleTeleSync на вашем Kindle будет их скачивать в указанное место в конфиге (по умолчанию в папку books). 
 Так же в конфиге можно указать форматы файлов которые будут разрешены для скачивания, по умолчанию это epub,mobi,pdf,zip,fb2
 Подробные логи пишутся в файл sync.log, краткие информационные сообщения выводятся вверху экрана. 
+
+Настройки можно вбить\поменять с внешнего устройства, запустив соответсвующий пункт меню в KOReader (см. скриншоты)
+
 Большие файлы могут долго скачиваться, имейте это в виду!
 Первая публичная версия, могут быть ошибки. 
-Версия 1.2.1
+Версия 1.2.2
 
 Автор — [XroM](https://4pda.to/forum/index.php?showuser=237553)
 
@@ -59,7 +62,7 @@ You can also specify the file formats that will be allowed for download in the c
 Detailed logs are written to the sync.log file, and brief information messages are displayed at the top of the screen. 
 Large files can take a long time to download, keep this in mind!
 The first public version, there may be errors. 
-Version 1.2.1
+Version 1.2.2
 
 Author — [XroM](https://4pda.to/forum/index.php?showuser=237553)
 
