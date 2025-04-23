@@ -1,3 +1,4 @@
+
  
  # Требования:
 1. Джейлбрейк
@@ -72,5 +73,4 @@ Thanks  for the tests and help to [Dark_AssassinUA](https://4pda.to/forum/index.
  <img src="https://github.com/user-attachments/assets/267e4466-4f9d-4bb4-8ca8-a5766d15935b" width="300">
  <img src="https://github.com/user-attachments/assets/865cfec1-f7c8-42ad-bbf5-1b4f5366ae00" width="300">
  <img src="https://github.com/user-attachments/assets/8b8baab8-bc0a-405f-ba31-75c023e66be7" width="300">
- <img src="https://github.com/user-attachments/assets/1d684896-3ff8-4098-aa39-bea1a363bf61" width="200">
- <img src="https://github.com/user-attachments/assets/76e0921d-db5f-4c4d-8b41-2a67790456d2" width="200">
+ <img src="https://github.com/user-attachments/assets/bb38b833-54bc-406d-a2d3-03ebe75b7a3a" width="200">
